@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Kodi from Debian Nightly Respository
+Label: kodi-nightly-debian-repo
+Suite: stable-backports
+Codename: buster-backports
+Version: 1.0
+Date: Tue, 11 May 2021 02:24:09 UTC
+Architectures: i386 amd64
+Components: main
+Description: Nightly builds of Kodi from Debian
+MD5Sum:
+ 4d63dfb77b11b894dea066a16b31309e 273065 main/binary-i386/Packages
+ 538a04139caeb229bca7d27424067578 54311 main/binary-i386/Packages.gz
+ c7cef34250f8a34757dc12d2f84ce77c 199 main/binary-i386/Release
+ 3c7a84f905ab1df3d98e5f94ea506c5b 279203 main/binary-amd64/Packages
+ bc67187faae1f9fa3f744681b2e434a9 56076 main/binary-amd64/Packages.gz
+ d467fc6666019bc12cf5ef4803d87579 200 main/binary-amd64/Release
+SHA1:
+ e4236c30c1d4de267fa4ccd7e4d094a36073f4b9 273065 main/binary-i386/Packages
+ c317587b0b34054498f8e9490202add6e79c8730 54311 main/binary-i386/Packages.gz
+ 1e1906b9ddafaeba9dfe1b790d17d082ab8df7ba 199 main/binary-i386/Release
+ 0e306af2a098afe59b467bc613b367aa19e5eac7 279203 main/binary-amd64/Packages
+ 08f2240d9bcc755721cf90860872e72b05dee7a9 56076 main/binary-amd64/Packages.gz
+ 4533d85272767911f5af4cba1a3d4f93e8e98e03 200 main/binary-amd64/Release
+SHA256:
+ 38d1c920166f54e135fd71229df90dd3247a0a6cbb719b9951c5d47ce3543f7a 273065 main/binary-i386/Packages
+ 959b2d491f388725b9a1d4f35f8bed5fbaa3d7214f6af2bfba0d44d923839adf 54311 main/binary-i386/Packages.gz
+ b1e58f82c82a41d4f8dbf5d78c21ce1c7a4748060dccea553231cf48c009541e 199 main/binary-i386/Release
+ 77eb14b7c786043575cdb130ffe4300cf5780b81d923a16c713adf98cda3d60a 279203 main/binary-amd64/Packages
+ a6bc4311d5a4653462ea71e820a11b5041a5822e2c9e40ca0561dea488de4272 56076 main/binary-amd64/Packages.gz
+ 5d75ff078f572d7bc935f4a8db3f94c68af2f311db46b68ae42cc1fdc01a7f71 200 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEKG46uNMbcWWMwf6pRcPahUxsbF4FAmCZ6tIACgkQRcPahUxs
+bF5f5RAAyVZdA8oHhBv94U1gSsTSNCP2Se8xhsvYEZnW3CcSe9bC1XkYwG/W4Pwh
+hKUhGCApdzkQ0lxrsb+Pf6vuquHy8MTy59FI3WbBgX9PycU8WJHt+6X4T8iH0krZ
+UkVLTaNdZXJmxGfh45rw8wTpKO3BDSxrKFh8JtdEleNoCM0ntoHWUh7e1Z3mBGS4
+7mFv3hFnDf8beUvwmWkRlwrH9m4z7q+evjudiypOg0zV8YNiC/Q16eCGHKuj6rcA
+YlyedRaibchTDVA1b8h6Y225aGINmwDliiom2kdgncLDirdC4AiQ175nA/yqSr9R
+q8zv1EXM5xxIeFlum6yOQfdY8quATmGXVs59bcbYI7q1spFXyJ529wA//mwIDuTA
+SFMRmziL3PtpW9AwCopTbYyoR/qcYxs1WGR0FgNkx6ccsKTZ1jsGwcM2WzbSbvJ6
+1URr5lSlZqLPbetcy5CGWAC9F3aoE5yX7aFhH+9vOB7WzBhHRcPpyLBSfScN8xwA
+dyBmYMjgGozpSpMLGN2DJQx0wsTolJhjXV2A/kP1890hNpMbOGTexih6v0iSxqMO
+0emyfxuIbXbPbB6QhGrDIOzLlZ5KVBJK5FDkoTzaFkYoRYkd4PbBs++xTXSlQhyt
+TUddaCfNqHvzjXbEOAErvQbeDMh0+2WVYWpyxMHUytm6RSYdh6U=
+=CUEv
+-----END PGP SIGNATURE-----

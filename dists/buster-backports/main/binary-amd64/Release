@@ -1,0 +1,7 @@
+Archive: stable-backports
+Version: 1.0
+Component: main
+Origin: Kodi from Debian Nightly Respository
+Label: kodi-nightly-debian-repo
+Architecture: amd64
+Description: Nightly builds of Kodi from Debian
